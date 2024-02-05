@@ -71,7 +71,7 @@ const allSongs = [
 ## Getting Started
 
 1. Clone the repository:
-   `git clone https://github.com/Erikote04/Music-Player.git`
+   `https://github.com/jaganpofficial/musicPlayer.git`
   
 2. Open index.html in your preferred web browser.
 
